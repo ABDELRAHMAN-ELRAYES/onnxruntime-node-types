@@ -1,0 +1,21 @@
+{
+  "name": "@elrayees/onnxruntime-node-types",
+  "version": "1.0.0",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "description": "TypeScript type definitions for onnxruntime-node",
+  "keywords": [
+    "typescript",
+    "onnx",
+    "types",
+    "declarations"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABDELRAHMAN-ELRAYES/onnxruntime-node-types.git"
+  },
+  "author": "Abdelrahman Abdelghani Elrayes",
+  "license": ""
+}
